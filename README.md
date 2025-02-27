@@ -1,27 +1,27 @@
-Project Title: Iris Flower Classification using Decision Tree
+## Project Title: Iris Flower Classification using Decision Tree
 
-Description:
+**Description:**
 Classifying iris flowers into Setosa, Versicolor, and Virginica.
 Uses petal and sepal measurements for classification.
 
-Dataset:
+**Dataset:**
 Contains sepal length, sepal width, petal length, and petal width.
 
-Technologies Used:
+**Technologies Used:**
 Python, Pandas, Scikit-learn, Google Colab.
 
-How to Run:
+**How to Run:**
 Open the notebook in Google Colab.
 Run the cells to train and test the model.
 
-Key Steps:
+**Key Steps:**
 Data Preprocessing
 Decision Tree Model Training
 Model Evaluation & Accuracy Check
 
-Results:
+**Results:**
 Model accuracy and confusion matrix.
 
-Future Improvements:
+**Future Improvements:**
 Trying different ML models like Random Forest or SVM.
 Deploying the model using a web application.
